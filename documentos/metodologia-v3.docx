@@ -1,0 +1,12 @@
+Metodología Ágil Aplicada
+Se utilizará una combinación de Scrum y Kanban.
+Características
+- Scrum:
+  - Roles definidos: Product Owner, Scrum Master, equipo de desarrollo.
+  - Sprint de 1 semana (simulado).
+  - Reunión de planificación y retrospectiva.
+- Kanban:
+  - Tablero visual (Trello / GitHub Projects) con columnas: To Do, Doing, Done.
+  - Flujo continuo.
+Justificación
+Scrum estructura el trabajo y Kanban da flexibilidad. Útil porque el equipo es pequeño y necesita iteraciones cortas.
