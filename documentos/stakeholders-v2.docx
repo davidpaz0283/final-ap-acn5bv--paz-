@@ -1,0 +1,13 @@
+Stakeholders del Proyecto
+Stakeholder: Administrador del Club
+Rol: Gestiona las reservas, técnicos y usuarios.
+Interés: Tener control total y ver estadísticas.
+Influencia: Alta
+Stakeholder: Jugador
+Rol: Usuario final que visualiza horarios, hace reservas y recibe mensajes.
+Interés: Acceso rápido desde su móvil, ver historial.
+Influencia: Media
+Stakeholder: Equipo de Desarrollo
+Rol: Desarrolladores del sistema.
+Interés: Cumplir tiempos, buena experiencia de usuario.
+Influencia: Alta
